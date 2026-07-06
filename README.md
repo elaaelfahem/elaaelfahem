@@ -2,5 +2,10 @@
 <div>
     <img src="./terminal (2).gif" alt="About Me Terminal GIF"/>
 </div>
+### Main skills
 
-[![My Skills](https://skillicons.dev/icons?i=aws,c,cmake,css,docker,django,eclipse,fastapi,figma,firebase,flask,git,github,html,ai,java,js,linux,matlab,mongodb,mysql,nestjs,nodejs,npm,notion,obsidian,php,postgres,postman,powershell,pycharm,py,pytorch,r,react,sqlite,stackoverflow,supabase,sklearn,tensorflow,vscode&perline=7)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,c,cmake,css,docker,django,eclipse,fastapi,figma,firebase,flask,git,github,html,ai,java,js,linux,matlab,mongodb,mysql,nestjs,nodejs,npm,notion,obsidian,php,postgres,postman,powershell,pycharm,py,pytorch,r,react,sqlite,stackoverflow,supabase,sklearn,tensorflow,vscode&perline=7" alt="My Skills" />
+  </a>
+</p>
