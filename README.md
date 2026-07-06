@@ -11,8 +11,8 @@
     <img src="https://skillicons.dev/icons?i=aws,c,cmake,css,docker,django,eclipse,fastapi,figma,firebase,flask,git,github,html,ai,java,js,linux,matlab,mongodb,mysql,nestjs,nodejs,npm,notion,obsidian,php,postgres,postman,powershell,pycharm,py,pytorch,r,react,sqlite,stackoverflow,supabase,sklearn,tensorflow,vscode" alt="My Skills" />
   </a>
 </p>
+
 ### Employer?
 > [!IMPORTANT]  
 > <a href="[https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing](https://drive.google.com/file/d/1qPPHr0bMldvaORFYUdAkbDY1Btm7Mxx9/view?usp=drive_link)" download>Download my resume</a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
