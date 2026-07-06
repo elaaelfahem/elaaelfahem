@@ -1,1 +1,1 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20Elaa!&fontSize=60&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20|%20ML%20Developer&descAlignY=60"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4972&pause=100&color=E47EF7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Elaa+!;I+build+AI+agents;+automate+workflows+with+n8n;and+create+AI-powered+applications." alt="Typing SVG" /></a>
